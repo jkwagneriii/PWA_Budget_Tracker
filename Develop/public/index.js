@@ -1,8 +1,10 @@
 let transactions = [];
 //What's going on here?
-let myChart;
+// let myChart;
+// import { myChart } from './populate'
 
 import { populateTotal, populateTable, populateChart } from './populate'
+
 
 fetch("/api/transaction")
   .then(response => {
