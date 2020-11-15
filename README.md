@@ -35,6 +35,7 @@ When brought back online:
 Mongo, Mongoose, Github, Node, JQuery, Express, Atlas, Heroku, HTML, CSS etc.
 
 ## Sources
+[webpack-pwa-manifest npm](https://www.npmjs.com/package/webpack-pwa-manifest)
 
 ## Additional Questions
 If you have any questions about the project, please reach out through GitHub.
