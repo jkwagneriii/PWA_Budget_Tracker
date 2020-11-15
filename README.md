@@ -36,6 +36,9 @@ Mongo, Mongoose, Github, Node, JQuery, Express, Atlas, Heroku, HTML, CSS etc.
 
 ## Sources
 [webpack-pwa-manifest npm](https://www.npmjs.com/package/webpack-pwa-manifest)
+[service-worker](https://developers.google.com/web/fundamentals/primers/service-workers)
+
+
 
 ## Additional Questions
 If you have any questions about the project, please reach out through GitHub.
