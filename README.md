@@ -26,19 +26,20 @@ When brought back online:
 * As an avid traveller I want to be able to track my withdrawals and deposits with or without a data/internet connection so that my account balance is accurate when I am traveling.
 
 ## Demo Links 
-[Heroku]()
-[Github]()
+[Heroku](https://desolate-forest-31854.herokuapp.com/)
+
+[Github](https://github.com/jkwagneriii/PWA_Budget_Tracker)
 
 ## Screenshot
+![image](./public/images/budgetPhoto.png)
 
 ## Technology
 Mongo, Mongoose, Github, Node, JQuery, Express, Atlas, Heroku, HTML, CSS etc.
 
 ## Sources
-[webpack-pwa-manifest npm](https://www.npmjs.com/package/webpack-pwa-manifest)
-[service-worker](https://developers.google.com/web/fundamentals/primers/service-workers)
 
+* [Service Worker Docs](https://developers.google.com/web/fundamentals/primers/service-workers)
 
 
 ## Additional Questions
-If you have any questions about the project, please reach out through GitHub.
+If you have any questions about the project, please reach out to [Jake Wagner](https://github.com/jkwagneriii) through GitHub.
