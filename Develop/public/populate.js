@@ -1,4 +1,4 @@
-export let myChart;
+let myChart;
 
 export function populateTotal() {
     // reduce transaction amounts to a single total value
@@ -63,3 +63,4 @@ export function populateChart() {
         }
     });
 }
+
